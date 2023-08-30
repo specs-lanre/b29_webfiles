@@ -1,0 +1,37 @@
+.hd_cover{background:rgba(0,0,0,0.7);height:100%}
+
+.hd_lead_ct{padding-top:30px}
+.hd_lead_text{font-size:50px;color:lightgray;
+text-align:center;font-family:"Arial"}
+
+.hd_nav_ct{padding-top:25px}
+.hd_nav{text-align:center;background:white;
+padding:25px 30px;margin:0px 40px;
+border-radius:15px;}
+
+.nav_link{color:#02B7D0;font-size:21px;
+text-decoration:none;margin:0px 8px;}
+
+.hd_form{background:rgba(255,255,255,0.5);
+padding:20px 0px;margin:20px 40px;border-radius:15px;}
+
+.hd_form form{margin:0px 11px;}
+.form_item{display:inline-block;width:40%;text-align:center;}
+.form_item2{display:inline-block;
+width:15%;text-align:center;}
+
+
+.form_item input,select,button{
+	border-radius:10px;
+	border:solid 1px lightblue;}
+
+.form_item input,select{
+width:95%;padding:12px 5px;
+font-size:18px;
+}
+
+.form_item2 button{display:inline-block;
+width:90%;padding:12px 5px;
+font-size:18px;background:lightblue;
+}
+
